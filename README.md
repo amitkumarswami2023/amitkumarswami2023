@@ -19,16 +19,18 @@ I'm a **Web Developer at SGT University, Gurugram**, with **3+ years of experien
 
 My development journey started with **HTML, CSS, JavaScript, and WordPress**, and has expanded into modern frontend and full-stack development using **React.js and the MERN Stack**.
 
-I enjoy solving real-world problems through technology and building digital experiences that are **fast, scalable, responsive, and easy to use**.
+I enjoy turning ideas into practical digital experiences and building applications that are **responsive, scalable, maintainable, and easy to use**.
 
-* 💼 Currently working as a **Web Developer @ SGT University**
-* ⚛️ Building modern interfaces with **React.js**
-* 🚀 Developing full-stack applications with the **MERN Stack**
+* 💼 Web Developer at **SGT University, Gurugram**
+* 💻 3+ years of professional web development experience
+* ⚛️ Building modern frontend applications with **React.js**
+* 🚀 Developing full-stack applications using the **MERN Stack**
 * 🌐 Experienced in **WordPress Development**
-* 💻 Strong foundation in **HTML, CSS, JavaScript**
-* 🎨 Working with **Bootstrap and Tailwind CSS**
-* 🔐 Implementing authentication and role-based access
-* 📊 Building dashboards and management systems
+* 💡 Strong foundation in **HTML, CSS, and JavaScript**
+* 🎨 Experienced with **Bootstrap and Tailwind CSS**
+* 🔐 Working with authentication and role-based access control
+* 📊 Building dashboards and management applications
+* 💬 Developing real-time applications using **Socket.IO**
 * ⚡ Interested in web performance and optimization
 * 📚 Continuously learning and improving my full-stack development skills
 
@@ -52,56 +54,147 @@ I enjoy solving real-world problems through technology and building digital expe
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Projects
 
-### 📊 Marketing Command Center
+## 📊 1. Full-Stack Marketing Command Center
 
-A full-stack **MERN-based management dashboard** designed to provide centralized visibility into digital marketing performance and team operations.
+A full-stack **MERN-based marketing and task management platform** designed to help teams manage tasks, users, departments, and marketing operations through a centralized dashboard.
 
-#### ✨ Highlights
+### ✨ Key Features
 
-* 📈 Marketing performance dashboard
-* 🎯 Lead and conversion tracking
-* 💰 Cost and performance metrics
-* 📊 Management-level analytics
-* 👥 Role-based user management
-* 📋 Department-wise task management
-* 🔐 JWT-based authentication
+* 📊 Management dashboard
+* 👥 User and role management
+* 🏢 Department-based organization
+* 📋 Task assignment and tracking
+* ✅ Pending and completed task management
+* 🔐 JWT authentication
 * 🛡️ Role-based access control
 * 📱 Responsive dashboard interface
+* 📈 Management-focused reporting
 * ⚡ Modern React-based UI
 
-#### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 `React.js` `Node.js` `Express.js` `MongoDB` `Redux Toolkit` `JWT` `Tailwind CSS`
 
----
+### 🔗 Links
 
-## 🌐 Web Development Projects
+🌐 **Live Demo:**
+https://sgt-marketing-task-manager.vercel.app/login
 
-### 🏫 University Websites & Landing Pages
-
-Developing and maintaining responsive web experiences for university programs, schools, departments, events, and campaigns.
-
-#### Areas of Work
-
-* 🎓 University websites
-* 📚 Program landing pages
-* 📢 Campaign landing pages
-* 📰 News & Events sections
-* 📝 Admission pages
-* 📱 Responsive UI development
-* 🔍 SEO optimization
-* ⚡ Performance optimization
-* 🎨 UI/UX improvements
-
-#### Technologies
-
-`HTML` `CSS` `JavaScript` `React.js` `Bootstrap` `Tailwind CSS` `WordPress`
+💻 **GitHub Repository:**
+https://github.com/amitkumarswami2023/sgt-marketing-task-manager
 
 ---
 
-## 🛠️ Tech Stack
+## 💬 2. Full-Stack Real-Time Chat Application
+
+A full-stack real-time chat application built with **React.js, Node.js, Express.js, MongoDB, and Socket.IO**.
+
+The application demonstrates real-time communication between users and full-stack authentication.
+
+### ✨ Key Features
+
+* 💬 Real-time messaging
+* ⚡ Socket.IO integration
+* 🔐 User authentication
+* 👤 User-based communication
+* 📱 Responsive chat interface
+* 🚀 Full-stack architecture
+* 🌐 REST API integration
+
+### 🛠️ Tech Stack
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT`
+
+### 🔗 Links
+
+🌐 **Live Demo:**
+https://chat-app-omega-ecru-64.vercel.app/login
+
+💻 **GitHub Repository:**
+https://github.com/amitkumarswami2023/chat-app
+
+---
+
+## 🎬 3. React Movie Review Application
+
+A frontend web application built with **React.js** that demonstrates component-based architecture, modern UI development, and interactive movie review functionality.
+
+### ✨ Highlights
+
+* ⚛️ React.js-based frontend
+* 🎬 Movie-focused user interface
+* ⭐ Review and rating functionality
+* 📱 Responsive design
+* 🧩 Reusable React components
+* 🚀 Deployed frontend application
+
+### 🛠️ Tech Stack
+
+`React.js` `JavaScript` `HTML` `CSS`
+
+### 🔗 Live Demo
+
+🌐 https://react-movie-review-app-alpha.vercel.app/
+
+---
+
+## 📝 4. React Notes Application
+
+A frontend notes management application built with **React.js**, designed to demonstrate state management, component-based development, and interactive CRUD functionality.
+
+### ✨ Key Features
+
+* 📝 Create notes
+* ✏️ Edit notes
+* 🗑️ Delete notes
+* 📱 Responsive interface
+* ⚛️ React component architecture
+* 🎨 Clean and user-friendly UI
+
+### 🛠️ Tech Stack
+
+`React.js` `JavaScript` `HTML` `CSS`
+
+### 🔗 Links
+
+🌐 **Live Demo:**
+https://jolly-puffpuff-2e0443.netlify.app/
+
+💻 **GitHub Repository:**
+https://github.com/amitkumarswami2023/react-notes-app
+
+---
+
+## 📌 5. React Kanban Board
+
+A task management Kanban board application built with **React.js** to organize tasks visually across different workflow stages.
+
+### ✨ Key Features
+
+* 📋 Task management
+* 🔄 Kanban workflow
+* 📝 Task organization
+* ⚛️ React-based component architecture
+* 📱 Responsive interface
+* 🎨 Clean and intuitive UI
+
+### 🛠️ Tech Stack
+
+`React.js` `JavaScript` `HTML` `CSS`
+
+### 🔗 Links
+
+🌐 **Live Demo:**
+https://react-kangan-board-amit.netlify.app/
+
+💻 **GitHub Repository:**
+https://github.com/amitkumarswami2023/react-kanban-board
+
+---
+
+# 🛠️ Tech Stack
 
 ### 💻 Frontend Development
 
@@ -121,85 +214,61 @@ Developing and maintaining responsive web experiences for university programs, s
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
+### 🔌 Real-Time & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=socketio,postman" />
+</p>
+
 ### 🌐 CMS & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-```text
-React.js
-    ↓
-Advanced React Patterns
-    ↓
-Node.js & Express.js
-    ↓
-MongoDB & Database Design
-    ↓
-REST APIs
-    ↓
-Authentication & Authorization
-    ↓
-MERN Stack Development
-    ↓
-Scalable Full-Stack Applications
-```
+I'm continuously expanding my full-stack development skills with a focus on:
 
-I'm continuously improving my knowledge of **full-stack development, backend architecture, APIs, authentication, database design, and scalable application development**.
+* ⚛️ Advanced React.js
+* 🚀 MERN Stack Development
+* 🟢 Node.js & Express.js
+* 🗄️ MongoDB & Database Design
+* 🔌 REST API Development
+* 🔐 Authentication & Authorization
+* 🛡️ Role-Based Access Control
+* 💬 Real-Time Applications with Socket.IO
+* 📊 Scalable Dashboard Applications
+* ⚡ Web Performance Optimization
 
 ---
 
-## 🏆 Achievements & Highlights
+# 🏆 Achievements & Highlights
 
 * 💼 **3+ years** of professional web development experience
+* 🏢 Currently working as a **Web Developer at SGT University**
 * 🚀 Built and maintained production web platforms
-* ⚛️ Developed applications using **React.js**
-* 🌐 Experienced in **WordPress development**
-* 📊 Built a full-stack **Marketing Command Center**
-* 🔐 Implemented authentication and role-based access systems
+* ⚛️ Developed multiple applications using **React.js**
+* 🧩 Built full-stack applications using the **MERN Stack**
+* 💬 Developed a real-time chat application using **Socket.IO**
+* 📊 Built a full-stack marketing and task management platform
+* 🔐 Implemented JWT authentication and role-based access control
 * 📋 Developed task management workflows for multiple departments
+* 🌐 Experienced in WordPress website development
 * ⚡ Worked on website performance and frontend optimization
 * 📱 Built responsive interfaces for desktop, tablet, and mobile
-* 📚 Continuously expanding skills in **MERN Stack Development**
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitkumarswami2023&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumarswami2023&layout=compact&hide_border=true&theme=tokyonight" height="170" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amitkumarswami2023&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitkumarswami2023&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 💡 What I Like Building
+# 💡 What I Like Building
 
 ```text
 🌐 Modern Web Applications
@@ -208,6 +277,7 @@ I'm continuously improving my knowledge of **full-stack development, backend arc
 📊 Management Dashboards
 🔐 Authentication Systems
 📋 Task Management Platforms
+💬 Real-Time Chat Applications
 🎓 Education & University Platforms
 📝 WordPress Websites
 ⚡ High-Performance Websites
@@ -216,15 +286,15 @@ I'm continuously improving my knowledge of **full-stack development, backend arc
 
 ---
 
-## 🎯 My Development Philosophy
+# 🎯 My Development Philosophy
 
 > **Build it simple. Make it useful. Keep it scalable.**
 
-I believe good software should not only work—it should provide a smooth user experience, be maintainable, perform well, and solve a real problem.
+I believe good software should not only work — it should provide a smooth user experience, be maintainable, perform well, and solve a real problem.
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <p align="left">
   <a href="mailto:amitkumarswami1999@gmail.com">
@@ -242,7 +312,7 @@ I believe good software should not only work—it should provide a smooth user e
 
 ### 🚀 Thanks for visiting my profile!
 
-⭐ Feel free to explore my repositories, check out my projects, and connect with me.
+⭐ Feel free to explore my repositories and check out my projects.
 
 **I'm always open to learning, collaborating, and building something meaningful.**
 
