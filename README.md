@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Web Developer at SGT University, Gurugram**, with **3+ years of experience** building responsive, user-friendly, and performance-focused websites and web applications.
+I'm a **Web Developer at Channelplay Limited, Gurugram**, with **3+ years of experience** building responsive, user-friendly, and performance-focused websites and web applications.
 
 My development journey started with **HTML, CSS, JavaScript, and WordPress**, and has expanded into modern frontend and full-stack development using **React.js and the MERN Stack**.
 
